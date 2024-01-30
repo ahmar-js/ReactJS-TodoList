@@ -11,7 +11,7 @@ Open CLI and Clone the project by:
 
 ## Deployment
 
-This project is Deployed here [Live Demo](https://react-js-todo-list-ten.vercel.app/)
+This project is Deployed here [Live Demo](https://todo-list-rjs.vercel.app/)
 
 ## Available Scripts
 
